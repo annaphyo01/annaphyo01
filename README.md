@@ -47,8 +47,6 @@ Focused on data handling, API integration, and multi‑platform 
 
 📧 **Email:** _annaphyo.ap@gmail.com_  
 💼 **LinkedIn:** [linkedin.com/in/anna-phyo01](https://www.linkedin.com/in/anna-phyo01)  
-📍 **Location:** London, UK  
-🎓 **Professional Member at BCS (British Computer Society)**  
 
 ---
 
